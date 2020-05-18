@@ -1,0 +1,28 @@
+
+.nav-wrapper {
+    background-color: #fff;
+
+.brand-logo {
+    width: 150px;
+    height: auto;
+    margin: 10px auto;
+    left: 85px;
+}
+
+#nav-mobile {
+    padding-right: 250px;
+
+    .link {
+        padding: 20px;
+        color: #144499 !important;
+        font-weight: 600;
+    }
+
+    .create-account {
+        border: 1px solid #144499;
+        border-radius: 5px;
+        padding: 10px 20px;
+    }
+}
+
+}
