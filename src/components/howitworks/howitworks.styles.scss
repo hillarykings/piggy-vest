@@ -30,7 +30,11 @@
     
     .card {
         border-radius: 10px!important;
-        height: 450px;
+        height: 490px;
+
+        .card-image {
+            top: 30px;
+        }
         
     
         .card-title {
@@ -45,12 +49,12 @@
             font-size: 14px;
             font-weight: 700;
             color: #616161;
-            margin-top: 80px;
+            margin-top: 110px;
         }
         
         .img {
             position: relative;
-            width: 380px!important;
+            width: 360px!important;
             margin-top: 40px;
             margin: auto;
         }

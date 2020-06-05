@@ -5,7 +5,7 @@ const Card = (props) => {
 
     return (
         
-    <div className="card-list" >{props.children}</div>
+    <div className="card-list s12 m6" >{props.children}</div>
           
     )
 }

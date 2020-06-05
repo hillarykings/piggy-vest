@@ -19,16 +19,16 @@ const Promotional = () => {
 }
 
 
-export const InvestInBits = () => {
+// export const InvestInBits = () => {
 
-    return (
-        <div className="main-div">
-            <div className="headline">
-            <h1 className="title">Invest in bits & on the go!</h1>
-            <p className="subtitle">Many investments are expensive, which makes it hard to get started. At PiggyVest, you too can invest in tiny & affordable chunks and still enjoy the same return rates in amazing opportunities.</p>
-            </div>
-        </div>
-    )
-}
+//     return (
+//         <div className="main-div">
+//             <div className="headline">
+//             <h1 className="title">Invest in bits & on the go!</h1>
+//             <p className="subtitle">Many investments are expensive, which makes it hard to get started. At PiggyVest, you too can invest in tiny & affordable chunks and still enjoy the same return rates in amazing opportunities.</p>
+//             </div>
+//         </div>
+//     )
+// }
 
 export default Promotional;

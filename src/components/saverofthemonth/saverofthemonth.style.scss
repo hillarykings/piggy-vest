@@ -1,0 +1,51 @@
+.saverofthemonth {
+    padding: 30px 0 50px;
+    height: auto;
+
+    .meet-img {
+        border-radius: 10px;
+        animation: bounce 2s ease-in-out infinite;
+        animation-direction: alternate;
+    }
+
+    // @keyframes bounce {
+
+    //     from {
+    //         margin-top: -10%;
+    //         width: 100%;
+    //       }
+        
+    //       to {
+    //         margin-bottom: 0%;
+    //         width: 100%;
+    //       }
+    //  } 
+
+    h1 {
+        color: #083E9E !important;
+        font-size: 35px;
+        line-height: 40px;
+        margin-bottom: 10px;
+        font-weight: 700;
+    }
+
+    .btn {
+        // padding: 15px 40px !important;
+        background-color: #30c57b;
+        text-transform: capitalize;
+        font-weight: 600;
+        font-size: 18px;
+        width: 185px;
+        height: 60px;
+        padding-top: 12px;
+        display: inline-block;
+        transition: all 200ms ease-in-out;
+        text-align: center;
+        cursor: pointer;
+        border-radius: 5px;
+    }
+
+    p {
+        font-weight: 700;
+    }
+}
